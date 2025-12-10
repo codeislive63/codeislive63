@@ -1,13 +1,10 @@
 <h1>Привет! На связи codeislive63 👋</h1>
 
 <p>
-Мне интересна современная Android-разработка с использованием Kotlin и Jetpack Compose. Также я экспериментирую с Java и C#.  
-Увлекаюсь написанием чистого и понятного кода, разбором архитектурных решений и освоением новых технологий.  
-Развиваюсь через pet-проекты и стремлюсь применять лучшие подходы на практике.
+Мне нравится работать с платформой .Net и разбираться, как устроены backend-системы на практике. Развиваюсь через проекты, изучаю фреймворки, пробую разные технологии.
 </p>
 
-
-<h2>🛠 Технологии</h2>
+<h2>Технологии</h2>
 <p>
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">&nbsp;
 <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff">&nbsp;
@@ -16,11 +13,24 @@
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">&nbsp;
 </p>
 
-<h2>📊 Статистика</h2>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeislive63&layout=compact&theme=dark" alt="Top Languages Card">
-</p>
+**Основной стек:**
+- .NET / C#
+- ASP.NET Core (Web API)
+- Entity Framework Core
+- PostgreSQL, Microsoft SQL
+- Git, GitHub / GitLab
 
-<h2>📫 Контакты</h2>
-<p>
-🔗 Telegram: <a href="https://t.me/codeislive63" target="_blank">@codeislive63</a><br>
+**Дополнительно:**
+
+- Kotlin / Android (Jetpack Compose)
+- Java
+- REST API, JSON, HTTP
+- AI / LLM API
+
+## 📊 Статистика
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeislive63&layout=compact&theme=dark)
+
+## Контакты
+
+- Telegram: [@codeislive63](https://t.me/codeislive63)
