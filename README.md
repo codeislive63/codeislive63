@@ -27,9 +27,11 @@
 - REST API, JSON, HTTP
 - AI / LLM API
 
-## 📊 Статистика
+## Активность
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeislive63&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=codeislive63&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codeislive63&theme=tokyo-night&hide_border=true)
 
 ## Контакты
 
